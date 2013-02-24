@@ -4,4 +4,4 @@ author: James Ots <code@jamesots.com>
 description: Read options files
 homepage: https://github.com/jamesots/optionsfile
 dependencies:
-  unittest: '>=0.3.1+1'
+  unittest: any
